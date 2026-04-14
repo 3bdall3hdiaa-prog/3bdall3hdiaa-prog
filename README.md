@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Amory Diaa
+# Hi there 👋, I'm Abdallah Diaa
 
 ## 💻 About Me
 I'm a Fullstack Developer passionate about building scalable web apps with Next.js, NestJS, and MongoDB.
